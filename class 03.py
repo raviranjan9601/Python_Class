@@ -1,20 +1,32 @@
 #day 7 operators (assignment operators)
+
+
+
 #2. Assignment Operators
+
 # Assignment operators are used to assign values to variables.
+
 # They are used to assign the result of an operation to a variable. 
+
 # Here is the list of assignment operators:
-# "=" : Assigns the value on the right to the variable on the left.
-# "+=" : Adds the value on the right to the variable on the left and assigns the result to the variable on the left.
-# "-=" : Subtracts the value on the right from the variable on the left and assigns the result to the variable on the left.
-# "*=" : Multiplies the variable on the left by the value on the right and assigns the result to the variable on the left.
-# "/=" : Divides the variable on the left by the value on the right and assigns the result to the variable on the left.
-# "%=" : Takes the modulus of the variable on the left by the value on the right and assigns the result to the variable on the left.
-# "**=" : Raises the variable on the left to the power of the value on the right and assigns the result to the variable on the left.
-# "//=" : Performs floor division on the variable on the left by the value on the right and assigns the result to the variable on the left.
+
+
+    # "=" : Assigns the value on the right to the variable on the left.
+    # "+=" : Adds the value on the right to the variable on the left and assigns the result to the variable on the left.
+    # "-=" : Subtracts the value on the right from the variable on the left and assigns the result to the variable on the left.
+    # "*=" : Multiplies the variable on the left by the value on the right and assigns the result to the variable on the left.
+    # "/=" : Divides the variable on the left by the value on the right and assigns the result to the variable on the left.
+    # "%=" : Takes the modulus of the variable on the left by the value on the right and assigns the result to the variable on the left.
+    # "**=" : Raises the variable on the left to the power of the value on the right and assigns the result to the variable on the left.
+    # "//=" : Performs floor division on the variable on the left by the value on the right and assigns the result to the variable on the left.
+
 # Here are some examples of assignment operators:
+
+
 a = 10
 b = 3
 a += b  # a = a + b
+
 print("After += :", a)  # After += : 13
 a -= b  # a = a - b
 print("After -= :", a)  # After -= : 10
@@ -31,22 +43,29 @@ print("After //= :", a)  # After //= : 333.0
 
 
 # operator precedence:
+
 # operator precedence determines the order in which operations are performed in an expression.
+
 # here is the operator precedence list from highest to lowest:
+
 # 1. Parentheses ()
 # 2. Exponentiation (**)
 # 3. Multiplication (*), Division (/), Floor Division (//), and Modulus
 # 4. Addition (+) and Subtraction (-)
+
 # here is some example of operator precedence:
+
 x = 5
 y = 6
 z = 2
+
 print(x + y * z)          # 17  (multiplication first, then addition)
 print((x + y) * z)       # 22  (parentheses first, then multiplication)
 print(x ** y + z)       # 3125 (exponentiation first, then addition)
 print(x + y - z)       # 9   (addition first, then subtraction)
 print(x + y / z)      # 8.0 (division first, then addition)
 print(x // z + y)     # 8   (floor division first, then addition)       
+
 # now you have learned about assignment operators and operator precedence.
 # assignment operators are very useful in programming as they help to simplify code and make it more readable.
 
