@@ -53,6 +53,8 @@ unique_numbers = {1, 2, 3, 4, 5}
 
 # You can use comparison operators to compare these variables as well.
 
+age = 20
+
 print("age > 18 :", age > 18)  # age > 18 : True
 print("height < 6.0 :", height < 6.0)  # height < 6.0 : True
 print("is_student == True :", is_student == True)  # is_student == True : True
