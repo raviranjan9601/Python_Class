@@ -1,0 +1,56 @@
+what is programming
+
+a programming is a formal language that developer's use to communicate 
+with computer
+
+there are two types :
+1. High Level language
+2. Low Level language
+
+
+
+High level language :
+=> it is software oriented language.
+=> it is use to website development, software development, and machine lerarning etc.
+here is har example : Java, c, C++, Python etc.
+
+Low Level language
+=> it is hardware oriented language.
+=> it is used in induction, washing machine, mouse, keybord and joystick.
+
+
+*application:
+
+=> an applications is a type of software that is designed to perform some specific tasks.
+
+types of application 
+
+- web oriented application
+- mobile application 
+- desktop application
+
+
+*> web application
+
+it runs inside any browser as a website
+
+*> mobile application
+
+it is designed to run on smartphone/tablets 
+it is platform oriented
+there are so many application that runs in mobile inside browser as a website.
+it requires an internet connection.
+
+**> Native application
+it is developed for any specific platform.
+
+**> Hybrid application
+it is combination of Native and mobile web application
+it runs as a website as well as runs on android and iOS.
+
+*> desktop application
+it is run only desktop
+it dose not requires any internet connection
+
+
+
