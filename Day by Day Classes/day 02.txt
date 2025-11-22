@@ -1,0 +1,5 @@
+#frontend, Backend and Database.
+
+Frontend Backend and Database are the three fundamental components of
+most software application they work together to deliver interactive experience
+to the user from the visual design to the underlying logic and data storage.
